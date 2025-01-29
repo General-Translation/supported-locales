@@ -1,5 +1,3 @@
 # @generaltranslation/supported-locales
 
-<a href='https://www.generaltranslation.com' target="_blank">generaltranslation.com</a>
-
-List of supported locales for General Translation cloud services. Updated frequently.
+This repo has been archived and migrated to the [GT monorepo](https://github.com/General-Translation/gt-libraries)
